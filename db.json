@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Elbek",
+      "female": "Jo'raqulov",
+      "phone": 998906669896
+    },
+    {
+      "id": 2,
+      "name": "Asilbek",
+      "female": "Jo'raqulov",
+      "phone": 9989122268900
+    },
+    {
+      "id": 3,
+      "name": "Temur",
+      "female": "Ziyodullayev",
+      "phone": 998913218346
+    },
+    {
+      "name": "Edik",
+      "female": "Xudoyqulov",
+      "phone": "345745676537",
+      "id": 4
+    },
+    {
+      "name": "Mardon",
+      "female": "Botirov",
+      "phone": "905554321",
+      "id": 5
+    },
+    {
+      "name": "Alibek",
+      "female": "Jo'raqulov",
+      "phone": "912226980",
+      "id": 6
+    }
+  ]
+}
